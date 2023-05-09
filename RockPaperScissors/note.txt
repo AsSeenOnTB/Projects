@@ -1,0 +1,35 @@
+Variables
+    Player
+    Computer
+    Rock
+        rockBtn
+    Paper
+        paperBtn
+    Scissors
+        scissorsBtn
+    Score
+        playerScore
+        computerScore
+
+Functions
+    Win
+    Lose
+    Start
+    Reset
+    Rock
+    Paper
+    Scissors
+    Tie
+
+
+    Rock beats Scissors
+    Paper beats Rock
+    Scissors beats Paper
+    Identicals are a tie
+
+Game Types
+    Singles
+    Best of 3
+    Best of 5
+
+    
